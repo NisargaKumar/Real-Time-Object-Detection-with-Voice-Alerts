@@ -56,3 +56,24 @@ tensorflow
     After training, click "Export Model".
 
 Choose "TensorFlow" and download the model files, including the .h5 file and the labels file.
+
+**2. Set Up Your Development Environment**
+
+- Install Required Libraries:  
+    Open your terminal or command prompt and run:  
+    pip install opencv-python cvzone pyttsx3 tensorflow
+
+**3. Create Your Project Structure**  
+
+- Create a New Directory:
+  - Create a folder for your project:
+      mkdir real-time-object-detection
+      cd real-time-object-detection
+
+- Add Model Files:
+    Place the downloaded .h5 model file and the labels text file into the project directory, organizing them into a folder called MyModel.
+
+**4. Write the Main Script**
+
+- Create main.py:
+    In the project directory, create a file named main.py
