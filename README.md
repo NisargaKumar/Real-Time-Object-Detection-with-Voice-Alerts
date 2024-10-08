@@ -63,19 +63,29 @@ Choose "TensorFlow" and download the model files, including the .h5 file and the
 
 - Install Required Libraries:  
     Open your terminal or command prompt and run:  
-    pip install opencv-python cvzone pyttsx3 tensorflow
+    pip install opencv-python cvzone pyttsx3 tensorflow  
 
 **3. Create Your Project Structure**  
 
-- Create a New Directory:
-  - Create a folder for your project:
-      mkdir real-time-object-detection
-      cd real-time-object-detection
+- Create a New Directory:  
+  - Create a folder for your project:  
+      mkdir real-time-object-detection  
+      cd real-time-object-detection   
 
-- Add Model Files:
-    Place the downloaded .h5 model file and the labels text file into the project directory, organizing them into a folder called MyModel.
+- Add Model Files:  
+    Place the downloaded .h5 model file and the labels text file into the project directory, organizing them into a folder called MyModel.  
 
-**4. Write the Main Script**
+**4. Write the Main Script**  
 
-- Create main.py:
+- Create main.py:  
     In the project directory, create a file named main.py
+
+ **5. Run the Project**
+ 
+- Run the Main Script:  
+    python main.py
+  
+**6. Test the System**
+
+- Use Your Webcam:  
+    Point your webcam/Droidcam on your phone towards the objects. The system should detect the objects and provide voice alerts based on the detected objects.
