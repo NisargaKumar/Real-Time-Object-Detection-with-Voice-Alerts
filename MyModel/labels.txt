@@ -1,0 +1,16 @@
+0 Pen with cap
+1 Pen without cap
+2 Book
+3 Pen cap
+4 Punching machine
+5 Stapler
+6 Chair
+7 Monitor
+8 Mobile Phone
+9 Keyboard
+10 Fan
+11 Surroundings
+12 Mouse
+13 Human
+14 Non detectable
+15 Hands
