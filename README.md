@@ -17,23 +17,23 @@ A real-time object detection system that integrates voice notifications using co
 
 1)  Clone the Repository:
 
-- Open your terminal or Git Bash.
-- Clone the repository:
+- Open your terminal or Git Bash.  
+- Clone the repository:  
   git clone https://github.com/your-username/real-time-object-detection.git
 
-2) Navigate to the Project Directory:
-   cd real-time-object-detection
+2) Navigate to the Project Directory:  
+   cd real-time-object-detection  
 
-3) Install Required Dependencies:
-- Create a requirements.txt file in the project directory and add the following:
-opencv-python
-cvzone
-pyttsx3
-tensorflow
+3) Install Required Dependencies:  
+- Create a requirements.txt file in the project directory and add the following:  
+opencv-python  
+cvzone  
+pyttsx3  
+tensorflow  
 
-- Install the dependencies:
-  pip install -r requirements.txt
+- Install the dependencies:  
+  pip install -r requirements.txt  
  
-- Run the Project:
-  python main.py
+- Run the Project:  
+  python main.py  
  
