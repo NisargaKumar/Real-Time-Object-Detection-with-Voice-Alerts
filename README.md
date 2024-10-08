@@ -1,19 +1,19 @@
 # Real-Time-Object-Detection-with-Voice-Alerts
-**Overview**:
+**Overview**:  
 A real-time object detection system that integrates voice notifications using computer vision and text-to-speech technologies, enhancing accessibility and user interaction.
 
-**Features**:
-**Real-time Object Detection**: Uses OpenCV and Cvzone.
-**Voice Alerts**: Provides auditory feedback via Pyttsx3.
-**Machine Learning**: Custom-trained model through Teachable Machine.
-**Efficient Processing**: Utilizes multithreading for smooth performance.
+**Features**:  
+**Real-time Object Detection**: Uses OpenCV and Cvzone.  
+**Voice Alerts**: Provides auditory feedback via Pyttsx3.  
+**Machine Learning**: Custom-trained model through Teachable Machine.  
+**Efficient Processing**: Utilizes multithreading for smooth performance.  
+ 
+**Tools and Technologies**:  
+**Programming Language**: Python  
+**Libraries**: OpenCV, Cvzone, Pyttsx3, TensorFlow  
+**Hardware**: Camera (Either Webcam or Droidcam) and speakers  
 
-**Tools and Technologies**:
-**Programming Language**: Python
-**Libraries**: OpenCV, Cvzone, Pyttsx3, TensorFlow
-**Hardware**: Camera (Either Webcam or Droidcam) and speakers
-
-**Steps to Create and Run the Project**
+**Steps to Create and Run the Project**  
 
 1)  Clone the Repository:
 
