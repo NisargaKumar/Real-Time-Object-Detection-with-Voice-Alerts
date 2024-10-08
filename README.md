@@ -36,4 +36,23 @@ tensorflow
  
 - Run the Project:  
   python main.py  
- 
+
+**BUILDING FROM SCRATCH**
+1. Create the Machine Learning Model with Teachable Machine
+- Visit Teachable Machine:
+-- Go to Teachable Machine.
+
+- Select the Model Type:
+-- Choose "Image Project" to create a model for object detection.
+
+- Upload Training Images:
+-- Click on "Get Started".
+-- Use your webcam or upload images for different objects you want to recognize. Label each class accordingly.
+
+- Train the Model:
+-- Once you've uploaded images, click on "Train Model". Wait for the process to complete.
+
+- Export the Model:
+-- After training, click "Export Model".
+
+Choose "TensorFlow" and download the model files, including the .h5 file and the labels file.
