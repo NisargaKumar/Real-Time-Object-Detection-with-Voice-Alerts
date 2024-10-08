@@ -37,6 +37,8 @@ tensorflow
 - Run the Project:  
   python main.py  
 
+
+
 **BUILDING FROM SCRATCH**
 1. **Create the Machine Learning Model with Teachable Machine**
 - Visit Teachable Machine:  
